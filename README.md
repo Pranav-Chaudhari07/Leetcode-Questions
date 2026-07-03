@@ -17,6 +17,7 @@
 | [0619-biggest-single-number](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1179-reformat-department-table](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1179-reformat-department-table) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Math
 |  |
 | ------- |
