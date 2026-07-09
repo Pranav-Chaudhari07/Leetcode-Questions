@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
