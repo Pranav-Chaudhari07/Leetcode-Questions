@@ -23,6 +23,7 @@
 | [1075-project-employees-i](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1179-reformat-department-table) |
+| [1280-students-and-examinations](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Math
 |  |
