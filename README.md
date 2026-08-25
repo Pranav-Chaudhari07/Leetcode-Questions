@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
