@@ -30,12 +30,14 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
