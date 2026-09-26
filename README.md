@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,5 +62,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
